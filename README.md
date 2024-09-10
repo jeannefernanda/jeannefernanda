@@ -2,7 +2,7 @@
 
 # Quem sou eu?
 - 👋 Hi, I’m @jeannefernanda
-- 👀 I’m interested in Java, Python, Javascript, Web Development, Frameworks like Spring Boot, Django, Flask. 
+- 👀 I’m interested in Java, Javascript, Web Development, Frameworks like Spring Boot, Django, Flask. 
 - 🌱 I’m currently learning Java Script, Object Oriented Programming, Prototype, Clean Code.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jeannefernanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:jeannefernanda.m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
