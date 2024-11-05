@@ -3,7 +3,7 @@
 # Quem sou eu?
 - 👋 Hi, I’m @jeannefernanda
 - 👀 I’m interested in Java + Spring Boot e JavaScript + Angular. 
-- 🌱 I’m currently learning how to create API with Java + Spring Boot, Object Oriented Progamming, Project Pattern, Clean Code and more.
+- 🌱 I’m currently learning how to create API with Java + Spring Boot, Object Oriented Progamming, Project Patterns, Clean Code and more.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jeannefernanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:jeannefernanda.m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
